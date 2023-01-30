@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/landlordMainPage/mainPage": "pages/landlordMainPage/mainPage.js",
+  "/home": "pages/home.js",
+  "/": "pages/index.js",
+  "/landlordMainPage/addNewApartment": "pages/landlordMainPage/addNewApartment.js",
+  "/landlordMainPage/viewListComplaint": "pages/landlordMainPage/viewListComplaint.js"
+}
